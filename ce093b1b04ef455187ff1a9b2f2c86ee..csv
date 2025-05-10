@@ -1,0 +1,151 @@
+country,continent,tourism_arrivals,tourism_receipts,peak_season,climate,description
+Australia,Europe,9750042,4059461802,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Thailand,South America,18864730,10740321867,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Iceland,Oceania,21921385,23514497529,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Singapore,Oceania,28123562,20670112339,Summer,Cold,An icy destination perfect for snow lovers.
+Kenya,Europe,36234532,61497167033,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Kenya,North America,4758774,5651985352,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Morocco,Asia,10840881,20145729772,Winter,Cold,An icy destination perfect for snow lovers.
+Morocco,South America,22091145,22455774777,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Hungary,North America,18917045,37175971411,Spring,Cool,A peaceful retreat with cool weather and nature.
+Australia,South America,27853182,21186945733,Summer,Cool,A peaceful retreat with cool weather and nature.
+Singapore,Asia,4835412,3812951853,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+South Korea,Oceania,16253995,27642760126,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+France,Europe,5752359,4527284002,Spring,Cold,An icy destination perfect for snow lovers.
+South Africa,North America,6815535,13287116496,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Denmark,North America,29795168,17095327722,Spring,Tropical,A hot spot filled with beaches and palm trees.
+Thailand,Europe,33127832,27793660328,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Finland,Africa,4217694,7687004280,Winter,Cool,A peaceful retreat with cool weather and nature.
+Austria,South America,745697,1241559881,Summer,Cold,An icy destination perfect for snow lovers.
+Nepal,Oceania,39932854,62102902392,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Thailand,Africa,14509114,9602425580,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Belgium,Europe,8563156,8814079122,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Vietnam,Africa,4804830,3182037616,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Greece,Europe,6403215,3549954700,Winter,Cool,A peaceful retreat with cool weather and nature.
+Australia,North America,8865705,13746216704,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Bhutan,Africa,22260316,31616100601,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Switzerland,Asia,13289311,21473283946,Summer,Tropical,A hot spot filled with beaches and palm trees.
+Kenya,Oceania,6222600,11467557728,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+New Zealand,Europe,1828581,2881183708,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Italy,Africa,3116316,3909444139,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Japan,North America,17653957,15374801703,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Egypt,Asia,12383317,18361949333,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+China,North America,37883230,36348499336,Summer,Cool,A peaceful retreat with cool weather and nature.
+Colombia,Africa,37665832,48035656403,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Finland,North America,1875942,3041032593,Spring,Cold,An icy destination perfect for snow lovers.
+Norway,South America,14201681,9068770189,Spring,Cool,A peaceful retreat with cool weather and nature.
+Kenya,Africa,1947025,1268084174,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Panama,North America,38269536,33974748902,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+China,Europe,31964708,55585769885,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Germany,North America,39767372,40817694747,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+India,Europe,36152323,41631187287,Summer,Cool,A peaceful retreat with cool weather and nature.
+Denmark,North America,4448266,2960961081,Spring,Tropical,A hot spot filled with beaches and palm trees.
+Norway,Asia,17892304,30375431538,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Hungary,Europe,1194067,662681558,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Chile,Oceania,6894830,1949985435,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+UK,Asia,3775647,1768151260,Winter,Cold,An icy destination perfect for snow lovers.
+Morocco,Oceania,36650527,50842183099,Winter,Cold,An icy destination perfect for snow lovers.
+Poland,North America,18724675,12150853981,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+South Africa,Oceania,11437228,12860554954,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Thailand,Asia,8568850,5663499152,Summer,Tropical,A hot spot filled with beaches and palm trees.
+Chile,Africa,19972745,36763111832,Spring,Cold,An icy destination perfect for snow lovers.
+Greece,South America,12467047,22318936376,Summer,Tropical,A hot spot filled with beaches and palm trees.
+Czech Republic,North America,28467376,42236987092,Spring,Tropical,A hot spot filled with beaches and palm trees.
+South Africa,South America,38784803,7806536454,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Italy,Europe,22337145,29192890864,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Czech Republic,South America,30425177,13092775562,Spring,Tropical,A hot spot filled with beaches and palm trees.
+Iceland,Africa,9759734,14774197189,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Austria,North America,18616080,11227450393,Winter,Cold,An icy destination perfect for snow lovers.
+Peru,Oceania,24983113,38211611595,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Spain,Oceania,32319960,45184182662,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Sweden,Asia,2519616,2027052738,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Cuba,Oceania,37638426,47167091004,Spring,Cold,An icy destination perfect for snow lovers.
+Colombia,Europe,12607992,23840403109,Winter,Cool,A peaceful retreat with cool weather and nature.
+Argentina,Africa,32360173,27927652248,Winter,Cold,An icy destination perfect for snow lovers.
+Bhutan,Europe,21214100,22720453688,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Indonesia,Oceania,21089507,35322487373,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Kenya,North America,17966176,18855748287,Spring,Cool,A peaceful retreat with cool weather and nature.
+Morocco,Oceania,19043193,24275882216,Winter,Cool,A peaceful retreat with cool weather and nature.
+Finland,Europe,8440643,1778987314,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Kenya,Africa,26267815,49428493700,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+UK,Africa,9785298,11750303998,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Poland,Europe,4021834,3099773877,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Panama,Europe,14501032,25305549831,Spring,Tropical,A hot spot filled with beaches and palm trees.
+New Zealand,Oceania,3566938,3434699474,Summer,Cool,A peaceful retreat with cool weather and nature.
+Netherlands,North America,25736058,30796136690,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Brazil,Asia,21648927,23030674901,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Belgium,Oceania,26154072,6078939637,Summer,Cool,A peaceful retreat with cool weather and nature.
+Switzerland,Europe,36720503,61897951022,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Canada,Oceania,1819510,1600142079,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+China,Asia,15381815,8904236570,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Morocco,North America,6699254,8539139628,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Mexico,Europe,29277257,13598932367,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Denmark,Europe,35131888,62269961107,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Iceland,Asia,20251065,28782714112,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Iceland,Asia,14826573,16942454280,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Bhutan,South America,7569487,2984732249,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Iceland,South America,17082031,11199884405,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Japan,Africa,25662987,18900157987,Summer,Cool,A peaceful retreat with cool weather and nature.
+Netherlands,Oceania,39286060,36762008048,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Canada,Oceania,13266150,4385630493,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Finland,Europe,37054226,57340291550,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Jamaica,Asia,25752577,31690824258,Spring,Cold,An icy destination perfect for snow lovers.
+Nepal,Oceania,30805573,20081496542,Spring,Cold,An icy destination perfect for snow lovers.
+Denmark,North America,39691565,78967887808,Winter,Cold,An icy destination perfect for snow lovers.
+Colombia,Europe,36952524,63935461862,Winter,Cool,A peaceful retreat with cool weather and nature.
+Morocco,Africa,16484910,23517762264,Summer,Cool,A peaceful retreat with cool weather and nature.
+Brazil,Oceania,25744149,31550158706,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Switzerland,Africa,2483573,3807558752,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Russia,Europe,2665453,4773024839,Spring,Tropical,A hot spot filled with beaches and palm trees.
+Nepal,Oceania,14378157,28688966593,Winter,Cold,An icy destination perfect for snow lovers.
+Mexico,South America,37949671,26172086469,Winter,Temperate,"Balanced weather, ideal for year-round travel."
+Chile,Asia,28993405,40654018350,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Greece,North America,23137182,28762395730,Spring,Cold,An icy destination perfect for snow lovers.
+South Africa,Asia,25114920,47178754133,Winter,Cold,An icy destination perfect for snow lovers.
+Colombia,Europe,10939974,7690516044,Spring,Cold,An icy destination perfect for snow lovers.
+Vietnam,South America,3237961,4889003668,Summer,Cold,An icy destination perfect for snow lovers.
+Morocco,North America,34034305,18212921683,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+China,South America,30359825,50174054707,Winter,Cool,A peaceful retreat with cool weather and nature.
+Nepal,South America,35341124,12862973946,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Norway,South America,4267745,4232031544,Summer,Cold,An icy destination perfect for snow lovers.
+Nepal,North America,20566608,21923973593,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Switzerland,Oceania,30901172,36299847751,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Chile,Oceania,27698365,47852305010,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Ukraine,North America,11264369,14098301906,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Italy,Europe,10155370,13548907919,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Spain,Asia,31863437,55656394177,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Hungary,South America,10240429,18168688377,Summer,Tropical,A hot spot filled with beaches and palm trees.
+Cuba,Europe,6784277,3887178709,Spring,Cool,A peaceful retreat with cool weather and nature.
+Argentina,Oceania,17361136,26773032222,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Malaysia,North America,3908728,1950849248,Winter,Cold,An icy destination perfect for snow lovers.
+South Korea,North America,17144573,11691394413,Spring,Tropical,A hot spot filled with beaches and palm trees.
+Indonesia,Asia,3424919,1086623775,Spring,Cool,A peaceful retreat with cool weather and nature.
+France,Oceania,23576421,31413666826,Spring,Cool,A peaceful retreat with cool weather and nature.
+Peru,Asia,25984006,14787087012,Spring,Cool,A peaceful retreat with cool weather and nature.
+China,Africa,8943421,15961281116,Spring,Cold,An icy destination perfect for snow lovers.
+Mexico,Africa,11900611,4122898276,Spring,Tropical,A hot spot filled with beaches and palm trees.
+India,Europe,34666981,54128550497,Summer,Mediterranean,Sunny coasts and rich cultural heritage.
+Morocco,Europe,35742418,27083114165,Spring,Temperate,"Balanced weather, ideal for year-round travel."
+Switzerland,Asia,3884732,5552984160,Summer,Tropical,A hot spot filled with beaches and palm trees.
+India,Europe,11135234,7462992612,Spring,Cold,An icy destination perfect for snow lovers.
+Peru,Oceania,1010118,1214735996,Winter,Cool,A peaceful retreat with cool weather and nature.
+Norway,Europe,9857405,6704227784,Summer,Cold,An icy destination perfect for snow lovers.
+Spain,Asia,13209134,2771501189,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+Hungary,Oceania,22787585,33773370472,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Iceland,Africa,12505795,19538643117,Spring,Cold,An icy destination perfect for snow lovers.
+Greece,North America,29007935,12598634115,Spring,Mediterranean,Sunny coasts and rich cultural heritage.
+Austria,Asia,24232808,9664873336,Spring,Cold,An icy destination perfect for snow lovers.
+Colombia,South America,7750823,6337758637,Summer,Temperate,"Balanced weather, ideal for year-round travel."
+Vietnam,Asia,37861275,18293089885,Spring,Cool,A peaceful retreat with cool weather and nature.
+Australia,Oceania,24844202,37775838675,Summer,Cool,A peaceful retreat with cool weather and nature.
+South Africa,Oceania,8222642,14149871181,Summer,Tropical,A hot spot filled with beaches and palm trees.
+Netherlands,Africa,16142277,29968024033,Winter,Mediterranean,Sunny coasts and rich cultural heritage.
+France,North America,22927231,27290007890,Winter,Tropical,A hot spot filled with beaches and palm trees.
+Mexico,Europe,21636956,41306699335,Summer,Cool,A peaceful retreat with cool weather and nature.
+New Zealand,Europe,16551061,17390628786,Summer,Cool,A peaceful retreat with cool weather and nature.
+Peru,Africa,1029947,1874077995,Spring,Cool,A peaceful retreat with cool weather and nature.
+Thailand,North America,21864229,13537820549,Spring,Cool,A peaceful retreat with cool weather and nature.
+China,North America,23127573,22392328518,Summer,Cool,A peaceful retreat with cool weather and nature.
+Greece,Oceania,18424884,13269047622,Winter,Cold,An icy destination perfect for snow lovers.
+Thailand,North America,37133313,69412326450,Winter,Cold,An icy destination perfect for snow lovers.
+Thailand,Oceania,31640523,32737929640,Summer,Cool,A peaceful retreat with cool weather and nature.
