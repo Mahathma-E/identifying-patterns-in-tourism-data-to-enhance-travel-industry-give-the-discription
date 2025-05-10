@@ -147,7 +147,7 @@ from pyngrok import ngrok, conf
 ngrok.kill()
 
 # Set your ngrok auth token
-conf.get_default().auth_token = "2wqW2mCqmtSJEzl7KiF6Ck5e1zP_iLLWv2yJbQLJXHezJC51"
+conf.get_default().auth_token = "YOUR_AUTH_TOKEN"
 
 # Run Streamlit in background
 streamlit_process = subprocess.Popen(["streamlit", "run", "app.py"])
